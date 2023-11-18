@@ -2,6 +2,9 @@
 
 El **modelo de Prandtl-Tomlinson** es una representación simple que describe el comportamiento de la fricción a escala atómica. Propuesto por Ludwig Prandtl en 1928, consiste en una masa puntual arrastrada por un resorte sobre un potencial periódico que representa la interacción entre la punta y la superficie. Este modelo permite estudiar los regímenes de deslizamiento continuo y de salto brusco, así como el fenómeno de la superlubricidad, un estado de fricción cero alcanzable con una orientación relativa adecuada entre las superficies.
 
+![image](https://github.com/KierPrev/Nanotribologia/assets/44746791/9b542e91-c3da-4495-aa02-772230233fca)
+
+
 # Nanotribología
 
 **Nanotribología** es la rama de la tribología que se enfoca en estudiar fenómenos como fricción, desgaste, adhesión y lubricación a nanoescala. Aquí, las interacciones atómicas y los efectos cuánticos no pueden despreciarse. Su objetivo es caracterizar y modificar superficies con propósitos tanto científicos como tecnológicos. La investigación en nanotribología tiene aplicaciones en diversos campos, incluyendo nanotecnología, biología, medicina, física, química e ingeniería.
